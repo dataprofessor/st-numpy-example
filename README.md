@@ -1,13 +1,11 @@
-# 📦 Streamlit App Starter Kit 
+# 🔢 NumPy - A minimum working example
 ```
-⬆️ (Replace above with your app's name)
+A minimum working example for showing NumPy in action inside a Streamlit app.
 ```
-
-Description of the app ...
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://starter-kit.streamlitapp.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dataprofessor-st-numpy-minimum-working-exa-streamlit-app-dskf0i.streamlit.app/)
 
 ## Section Heading
 
