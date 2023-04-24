@@ -9,4 +9,5 @@ data_matrix = np.array([[0, 1, 2],
                         [6, 7, 8]])
 
 # Display the contents of the created data matrix variable
+st.write('The following is a data matrix created using NumPy')
 st.write(data_matrix)
